@@ -6,6 +6,7 @@
 
 # BERIKUT INI ADALAH SOAL LATIHAN YANG SUDAH SAYA KERJAKAN
 >
+>
 # 1.Latihan Bootstrap Color 
 
 >pada latihan ini kita menggunakan class WARNA pada bootstrap contohnya (primary,light,dark DLL) 
@@ -70,4 +71,4 @@
 
 
 >
-# =====--ͶUWUꙄ-ЯUTAM--=====
+# ==========-----=-ͶUWUꙄ-ЯUTAM-=------=====
