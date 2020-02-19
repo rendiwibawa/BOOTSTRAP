@@ -34,15 +34,15 @@
 
 ![Alt-Text](https://github.com/rendiwibawa/BOOTSTRAP/blob/master/Hasil%20run/7.JPG)
 
-# 8.1.Latihan Bootstrap Modal Large
+# 8a.Latihan Bootstrap Modal Large
 
 ![Alt-Text](https://github.com/rendiwibawa/BOOTSTRAP/blob/master/Hasil%20run/8.1.JPG)
 
-## 8.2.Latihan Bootstrap Modal Medium
+## 8b.Latihan Bootstrap Modal Medium
 
 ![Alt-Text](https://github.com/rendiwibawa/BOOTSTRAP/blob/master/Hasil%20run/8.2.JPG)
 
-## 8.3.Latihan Bootstrap Modal Small
+## 8c.Latihan Bootstrap Modal Small
 
 ![Alt-Text](https://github.com/rendiwibawa/BOOTSTRAP/blob/master/Hasil%20run/8.3.JPG)
 
