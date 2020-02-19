@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bostrap SlideShow</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.js"></script>
+
+<body>
+    <div class="container">
+        <div class="carousel slide" data-ride="carousel" id="slide">
+            <!-- indikator slide -->
+            <ul class=" carousel-indicators">
+                <li data-target="#slide" data-slide-to="0" class="active"></li>
+                <!-- <i-- class active berorti eLemen tersebut yang pertama kati ditompiLkon soot Load batman --> 
+                <li data-target="#slide" data-slide-to="1"></li>
+                <li data-target="#slide" data-slide-to="2"></li>
+            </ul>
+
+            <!-- gambar slide -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="logo.png" width="100%" height="500" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="satrio.jpg" width="100%" height="500" alt="">
+                </div>
+                <div class="carousel-item">
+                    <img src="sihab.png" width="100%" height="500" alt="">
+                </div>
+            </div>
+
+            <!-- Navigasi slide -->
+            <a href="#slide" data-slide="prev" class="carousel-control-prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a href="#slide" data-slide="next" class="carousel-control-next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+    </div>
+
+</body>
+
+</html>
