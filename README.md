@@ -1,7 +1,7 @@
 # 𝓑𝓞𝓞𝓣𝓢𝓣𝓡𝓐𝓟
 ## Bootstrap merupakan salah satu teknologi dalam pemubuatan web yang memudahkan dalam hal desain tampilan website. Bootstrap adalah library atau kumpulan beberapa style CSS yang sering digunakan pada pembuatan halaman web pada umumnya, sehingga designer lebih mudah dalam layouting web page karena hanya tinggal memanggil nama class-class yang telah disediakan. Versi bootstrap yang terbaru adalah Bootstrap 4. Bootstrap juga mendukung halaman web yang responsive sehingga lebih mudah dalam pembuatan layout web untuk desktop maupun perangkat mobile. 
 
-## Penggunaan Bootstrap Untuk memulai penggunaan bootstrap, kita harus pastikan halaman web yang dibuat telah terkoneksi dengan library bootstrap. Pada modul ini, kita perlu mengunduh library Bootstrap versi 4 dan kita letakkan pada direkrori local kita
+!> Penggunaan Bootstrap Untuk memulai penggunaan bootstrap, kita harus pastikan halaman web yang dibuat telah terkoneksi dengan library bootstrap. Pada modul ini, kita perlu mengunduh library Bootstrap versi 4 dan kita letakkan pada direkrori local kita
 
 # BERIKUT INI ADALAH SOAL LATIHAN YANG SUDAH SAYA KERJAKAN
 
